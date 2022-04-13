@@ -1,0 +1,269 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: codeVilaTheme\n"
+"POT-Creation-Date: 2022-03-23 14:50-0300\n"
+"PO-Revision-Date: 2022-03-23 14:44-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__;_x;_nx;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:21
+msgid "Ooopps! The Page you were looking for, couldn't be found."
+msgstr ""
+
+#: 404.php:22
+msgid "Try searching for the best match or browse the links below:"
+msgstr ""
+
+#: assets/js/components/tinymce/plugins/lists/plugin.min.js:1
+msgid "none()"
+msgstr ""
+
+#: assets/js/components/tinymce/plugins/lists/plugin.min.js:1
+msgid "Edge"
+msgstr ""
+
+#: assets/js/components/tinymce/plugins/lists/plugin.min.js:1
+msgid "Chrome"
+msgstr ""
+
+#: assets/js/components/tinymce/plugins/lists/plugin.min.js:1
+msgid "IE"
+msgstr ""
+
+#: assets/js/components/tinymce/plugins/lists/plugin.min.js:1
+msgid "Opera"
+msgstr ""
+
+#: assets/js/components/tinymce/plugins/lists/plugin.min.js:1
+msgid "Safari"
+msgstr ""
+
+#: assets/js/components/tinymce/plugins/lists/plugin.min.js:1
+msgid "iOS"
+msgstr ""
+
+#: assets/js/components/tinymce/plugins/lists/plugin.min.js:1
+msgid "Linux"
+msgstr ""
+
+#: assets/js/components/tinymce/plugins/lists/plugin.min.js:1
+msgid "OSX"
+msgstr ""
+
+#: comments.php:70
+msgid "Name"
+msgstr ""
+
+#: comments.php:76
+msgid "Email"
+msgstr ""
+
+#: comments.php:82
+msgid "Website"
+msgstr ""
+
+#: comments.php:88
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:89
+msgid "Leave a <span>Comment</span>"
+msgstr ""
+
+#: full-width-post.php:56 page.php:32 single.php:50
+msgid "Pages:"
+msgstr ""
+
+#: header.php:193
+msgid "Type &amp; Hit Enter.."
+msgstr ""
+
+#: includes/customizer/misc.php:71
+msgid "Code Vila Theme Misc Settings"
+msgstr ""
+
+#: includes/customizer/misc.php:77
+msgid "Slide settings"
+msgstr ""
+
+#: includes/customizer/misc.php:83
+msgid "Code Vila Theme GoogleLocation Settings"
+msgstr ""
+
+#: includes/customizer/misc.php:92
+msgid "Show search button in header"
+msgstr ""
+
+#: includes/customizer/misc.php:106
+msgid "Show cart button in header"
+msgstr ""
+
+#: includes/customizer/misc.php:120
+msgid "Copyright"
+msgstr ""
+
+#: includes/customizer/misc.php:130
+msgid "Latitude"
+msgstr ""
+
+#: includes/customizer/misc.php:140
+msgid "Longitude"
+msgstr ""
+
+#: includes/customizer/misc.php:150
+msgid "Footer tos"
+msgstr ""
+
+#: includes/customizer/misc.php:161
+msgid "Footer Privacy Policy Page"
+msgstr ""
+
+#: includes/customizer/misc.php:172
+msgid "Read more color"
+msgstr ""
+
+#: includes/customizer/misc.php:182
+msgid "Post title color"
+msgstr ""
+
+#: includes/customizer/misc.php:192
+msgid "Post title color hover"
+msgstr ""
+
+#: includes/customizer/misc.php:202
+msgid "File report"
+msgstr ""
+
+#: includes/customizer/misc.php:212
+msgid "Title popular post"
+msgstr ""
+
+#: includes/customizer/misc.php:222
+msgid "Show most popular posts"
+msgstr ""
+
+#: includes/customizer/misc.php:227
+msgid "Yes"
+msgstr ""
+
+#: includes/customizer/misc.php:236
+msgid "Number of post display slide"
+msgstr ""
+
+#: includes/customizer/misc.php:247
+msgid "Choose your desing type here"
+msgstr ""
+
+#: includes/customizer/misc.php:252
+msgid "Desing type 1"
+msgstr ""
+
+#: includes/customizer/misc.php:253
+msgid "Desing type 2"
+msgstr ""
+
+#: includes/customizer/social.php:26
+msgid "Code Vila Social Settings"
+msgstr ""
+
+#: includes/customizer/social.php:35
+msgid "Facebook Handle"
+msgstr ""
+
+#: includes/customizer/social.php:47
+msgid "Twitter Handle"
+msgstr ""
+
+#: includes/customizer/social.php:58
+msgid "Instagram Handle"
+msgstr ""
+
+#: includes/customizer/social.php:69
+msgid "Email Handle"
+msgstr ""
+
+#: includes/customizer/social.php:80
+msgid "Phone Handle"
+msgstr ""
+
+#: includes/setup.php:24
+msgid "About"
+msgstr ""
+
+#: includes/setup.php:69
+msgid "Primary menu"
+msgstr ""
+
+#: includes/setup.php:79
+msgid "Secondary menu"
+msgstr ""
+
+#: includes/setup.php:90
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/setup.php:91
+msgid "Secondary Menu"
+msgstr ""
+
+#: includes/theme-customizer.php:6
+msgid "CodeVila"
+msgstr ""
+
+#: includes/widgets.php:6
+msgid "my first theme sidebar"
+msgstr ""
+
+#: includes/widgets.php:8
+msgid "Sidebar for the theme udemy"
+msgstr ""
+
+#: includes/widgets.php:16
+msgid "Services 1"
+msgstr ""
+
+#: includes/widgets.php:18
+msgid "First area"
+msgstr ""
+
+#: includes/widgets.php:26
+msgid "Services 2"
+msgstr ""
+
+#: includes/widgets.php:28
+msgid "Second area"
+msgstr ""
+
+#: includes/widgets.php:36
+msgid "Services 3"
+msgstr ""
+
+#: includes/widgets.php:38
+msgid "Third area"
+msgstr ""
+
+#: search.php:5
+msgid "Search Results for: "
+msgstr ""
+
+#: search.php:15
+msgid "What are you searhing for today?"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search"
+msgstr ""
