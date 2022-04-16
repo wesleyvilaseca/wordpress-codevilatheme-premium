@@ -19,6 +19,9 @@ include(get_theme_file_path('includes/customizer/social.php'));
 include(get_theme_file_path('includes/customizer/misc.php'));
 include(get_theme_file_path('includes/customizer/enqueue.php'));
 
+include(get_theme_file_path('widgets/class.test-widget.php'));
+
+
 /**
  * hooks
  */
@@ -32,3 +35,10 @@ add_action('customize_preview_init',    'ju_customize_preview_init');
 /**
  * shortcodes
  */
+
+
+
+ /**
+  * widget init classes
+  */
+  $CodeVilaThemeTestWidget = new Codevila_Test_Widget();
